@@ -22,6 +22,7 @@
 ## Hobbies
 
 - Reading
+- Writing
 - Learning
 - Searching
 - Travelling
